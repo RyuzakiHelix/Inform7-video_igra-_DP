@@ -6,3 +6,5 @@ Za pokretanje igre unutar Igra_interaktivne_fikcije_Inform7.materials, nalazi se
 Sam programski kod nalazi se u story.ni, koji se može otvoriti sa notepad i kopirati unutar vlastitog projekta
 
 Video igra nije potuna i služi samo kao edukacijski primjer
+
+Latex Dokumentacija- https://www.overleaf.com/read/zcgkhtskgnjf
